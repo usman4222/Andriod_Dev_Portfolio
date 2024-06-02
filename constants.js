@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Muzmmil Ahmed",
+  title: "Portfolio | Muzmmil Ahmed",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Muzmmil Ahmed is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubh731",
   keywords: [
-    "Shubh Porwal",
+    "Muzmmil Ahmed",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
